@@ -1,3 +1,4 @@
 # react-demo
-Repo for Learn react. <br>
+Repo for Learn react.
+<br>
 Author - Jatin Panesiya
